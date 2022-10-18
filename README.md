@@ -9,4 +9,4 @@ Each applicants' total score is then divided by each of the team members' total 
 
 The solution then outputs a JSON string of each applicant's name and their respective weighted score on a scale of 0 to 1.
 
-<img src="sample_output" alt="Sameple Output"/>
+<img src="sample_output.png" alt="Sample Output"/>
